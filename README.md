@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**deux-l/deux-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por tecnologia. :heartbeat: <br>
+Pretendo me tornar um FullStack Developer. :computer:
 
-Here are some ideas to get you started:
+:information_source: Usando/Estudando Ultimamente: <br>
+:small_blue_diamond: HTML/CSS/Javascript <br>
+:small_blue_diamond: Gnu/Linux <br>
+:small_blue_diamond: PHP <br>
+:small_blue_diamond: Angular <br>
+:small_blue_diamond: Typescript <br>
+:small_blue_diamond: Node <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/> 💬  &nbsp; Sobre mim: Curto games Nintendo, livros e sériados sobre ficção cientifica.
+ <br/> :email: &nbsp; Entre em contato comigo:
+[![Gmail Badge](https://img.shields.io/badge/-c.eduardosouzacabral@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.eduardosouzacabral@gmail.com)](mailto:c.eduardosouzacabral@gmail.com)
