@@ -6,7 +6,6 @@ Pretendo me tornar um desenvolvedor FullStack. :computer:
 :small_blue_diamond: Gnu/Linux <br>
 :small_blue_diamond: PHP <br>
 :small_blue_diamond: Angular <br>
-:small_blue_diamond: Typescript <br>
 :small_blue_diamond: Node <br>
  <br/> 💬  &nbsp; Sobre mim: Curto games Nintendo, livros e sériados sobre ficção cientifica.
  <br/> :email: &nbsp; Entre em contato comigo:
