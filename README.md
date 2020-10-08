@@ -1,4 +1,4 @@
-Me chamdo Carlos Eduardo e sou apaixonado por tecnologia. :heartbeat: <br>
+Me chamo Carlos Eduardo e sou apaixonado por tecnologia. :heartbeat: <br>
 Pretendo me tornar um desenvolvedor FullStack. :computer:
 
 :information_source: Usando/Estudando Ultimamente: <br>
