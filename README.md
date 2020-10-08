@@ -2,7 +2,8 @@ Me chamdo Carlos Eduardo e sou apaixonado por tecnologia. :heartbeat: <br>
 Pretendo me tornar um desenvolvedor FullStack. :computer:
 
 :information_source: Usando/Estudando Ultimamente: <br>
-:small_blue_diamond: HTML/CSS/Javascript <br>
+:small_blue_diamond: HTML/CSS <br>
+:small_blue_diamond: Javascript <br>
 :small_blue_diamond: Gnu/Linux <br>
 :small_blue_diamond: PHP <br>
 :small_blue_diamond: Angular <br>
